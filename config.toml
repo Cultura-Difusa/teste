@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://cultura-difusa.github.io/teste/"
 publishDir = "docs"
 title = "Nederburg"
 theme = "hugo-nederburg-theme"
